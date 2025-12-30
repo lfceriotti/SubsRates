@@ -1,6 +1,6 @@
-# SubsRates
+# Substitution Rate Estimations
 
-A pipeline to extract **terminal branch** dN, dS, and ω (omega) values from PAML (codeml) output, compute **root-to-tip distances** from phylogenetic trees, and summarize the results in a table and annotated tree plots.
+This workflow extracts **terminal branch** dN, dS, and ω (omega) values from PAML (codeml) output, computes **root-to-tip distances** from phylogenetic trees, and summarizes the results in a table and annotated tree plots.
 
 It consists of:
 - A **shell script** that parses codeml output.
